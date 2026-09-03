@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Nadim%20Mahmud&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Nadim%20Mahmud&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20and%20Data%20Science%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergrad+%F0%9F%8E%93;Machine+Learning+%26+Deep+Learning+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Future+AI%2FData+Science+Researcher+%F0%9F%94%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergrad+%F0%9F%8E%93;Machine+Learning+%26+Deep+Learning+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Future+AI%2FData+Science+Researcher+%F0%9F%94%AC" alt="Typing SVG" />
 
 <br><br>
 
@@ -12,10 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudnadim479@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=nadim7009&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views"/>
-
-<br>
-
-![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
@@ -42,44 +38,21 @@ philosophy: "Build. Learn. Experiment. Improve."
 
 ## 🔭 Currently Building
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 🌱 IrrigaSmart
 Intelligent Irrigation Recommendation System — data-driven irrigation scheduling for smarter farming.
-
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
+<br>![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 
 ### 🌾 SoilMind
 Explainable Soil Fertility Intelligence — interpretable ML for actionable soil insights.
-
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 
 ### 🧵 BanglaFabric
 Bangladesh Textile Quality Intelligence — ML-driven quality control for the textile industry.
-
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
+<br>![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 
 ### 🌿 Plant Disease Classification
 Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
-
-![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
-
-</td>
-</tr>
-</table>
+<br>![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 
 <br>
 
@@ -145,12 +118,13 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadim7009&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim7009&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nadim7009&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim7009&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim7009&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadim7009&theme=redical&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadim7009&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nadim7009&theme=redical&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -160,31 +134,11 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nadim7009/nadim7009/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-
+<img width="100%" src="https://raw.githubusercontent.com/nadim7009/nadim7009/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
-<br>
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=nadim7009&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)
-
-</div>
-
-<br>
-
-## 🔝 Top Contributions
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=nadim7009&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 <br>
 
@@ -192,7 +146,7 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 </div>
 
