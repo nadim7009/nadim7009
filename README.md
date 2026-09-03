@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💫 About Me:
+<br><br>Hi, I'm **Nadim** 👋<br><br>I'm a **Software Engineering undergraduate specializing in Data Science**, passionate about building practical software and **machine learning solutions** that solve real-world problems.<br><br>My interests lie at the intersection of **Software Engineering, Data Science, Machine Learning, and Deep Learning**. I enjoy taking a problem from data collection and exploration to model development, evaluation, and deployment.<br><br>### 🔭 Currently Working On<br><br>* 🌱 **IrrigaSmart** — Intelligent Irrigation Recommendation System<br>* 🌾 **SoilMind** — Explainable Soil Fertility Intelligence<br>* 🧵 **BanglaFabric** — Bangladesh Textile Quality Intelligence<br>* 🌿 **Plant Disease Classification** using Deep Learning and the PlantVillage dataset<br><br>### 🛠️ Areas I Work With<br><br>**Languages:** Python, SQL, Java, JavaScript<br>**Data & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras<br>**Deep Learning:** CNNs, Transfer Learning, Computer Vision<br>**Tools:** Git, GitHub, Google Colab, Jupyter Notebook<br>**Software Engineering:** APIs, databases, backend development, system design<br><br>### 🎯 My Goal<br><br>To become a strong **Machine Learning / Data Scientist with solid Software Engineering foundations**, capable of building reliable, scalable, and impactful intelligent systems.<br><br>I'm continuously improving my technical skills, building research-oriented projects, and preparing for opportunities to pursue **graduate studies and an international career in AI/Data Science**.<br><br>> **Build. Learn. Experiment. Improve.**<br>
 
-<!--
-**nadim7009/nadim7009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____nadimxnovaryn01____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-8b37152a0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@NadimMahmud-t5j ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudnadim479@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nadim7009&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nadim7009&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nadim7009&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nadim7009&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nadim7009&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=nadim7009&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
