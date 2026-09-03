@@ -156,9 +156,7 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <div align="center">
 
-### 🎯 Currently Pursuing
 
-**Master's & International Opportunities in AI / Data Science**
 
 <br>
 
