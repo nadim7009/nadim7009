@@ -162,7 +162,7 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <img src="https://raw.githubusercontent.com/nadim7009/nadim7009/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-<sub>💡 Add <code>platane/snk</code> GitHub Action to your profile repo to auto-generate this animation</sub>
+
 
 </div>
 
