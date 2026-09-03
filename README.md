@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Nadim%20Mahmud&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Nadim%20Mahmud&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergrad+%F0%9F%8E%93;Machine+Learning+%26+Deep+Learning+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Real-World+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergrad+%F0%9F%8E%93;Machine+Learning+%26+Deep+Learning+%F0%9F%A4%96;Data+Science+Enthusiast+%F0%9F%93%8A;Building+Real-World+AI+Solutions+%F0%9F%9A%80;Future+AI%2FData+Science+Researcher+%F0%9F%94%AC" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____nadimxnovaryn01____)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-8b37152a0)
@@ -12,6 +12,10 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudnadim479@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=nadim7009&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views"/>
+
+<br>
+
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
@@ -34,34 +38,44 @@ philosophy: "Build. Learn. Experiment. Improve."
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 🔭 Currently Building
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 IrrigaSmart
 Intelligent Irrigation Recommendation System — data-driven irrigation scheduling for smarter farming.
 
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 SoilMind
 Explainable Soil Fertility Intelligence — interpretable ML for actionable soil insights.
 
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧵 BanglaFabric
 Bangladesh Textile Quality Intelligence — ML-driven quality control for the textile industry.
 
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌿 Plant Disease Classification
 Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
+
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
 
 </td>
 </tr>
@@ -117,9 +131,15 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+<br>
+
+![](https://skillicons.dev/icons?i=python,java,js,django,flask,dotnet,firebase,mysql,vite,git,github,tensorflow,pytorch&theme=dark)
+
 </div>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -131,6 +151,18 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim7009&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadim7009&theme=redical&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nadim7009/nadim7009/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+<sub>💡 Add <code>platane/snk</code> GitHub Action to your profile repo to auto-generate this animation</sub>
 
 </div>
 
@@ -166,6 +198,8 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 <div align="center">
 
 ### 🎯 Currently Pursuing
@@ -178,6 +212,17 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer"/>
+### 🤝 Let's Connect & Collaborate
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____nadimxnovaryn01____)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-8b37152a0)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NadimMahmud-t5j)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudnadim479@gmail.com)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=nadim7009&style=flat-square&color=8B5CF6&label=Thanks+for+visiting)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=150&section=footer"/>
 
 </div>
