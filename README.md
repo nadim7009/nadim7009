@@ -36,8 +36,8 @@ philosophy: "Build. Learn. Experiment. Improve."
 
 ## Publications
 
-- **Explainable ML for Individual Carbon-Footprint Prediction from Traditional, Digital, and AI Behaviors**. Accepted for oral presentation at AAI 2026, the International Conference on Advances in Artificial Intelligence (Langkawi, Malaysia, December 2026). Second author.
-- **Attention-Enhanced Deep Learning for Microplastic Segmentation in Scanning Electron Microscopy Images**. Accepted at AAI 2026 (Langkawi, Malaysia, December 2026). Second author; the idea and all of the code were mine.
+- **Explainable ML for Individual Carbon-Footprint Prediction from Traditional, Digital, and AI Behaviors**. Accepted for oral presentation at AAI 2026, the International Conference on Advances in Artificial Intelligence (Langkawi, Malaysia, December 2026). Second author. [Code and data](https://github.com/nadim7009/explainable-carbon-footprint)
+- **Attention-Enhanced Deep Learning for Microplastic Segmentation in Scanning Electron Microscopy Images**. Accepted at AAI 2026 (Langkawi, Malaysia, December 2026). Second author; the idea and all of the code were mine. [Code](https://github.com/nadim7009/microplastic-sem-segmentation)
 - **Beyond Clean Accuracy: Controlled Robustness Evaluation and Corruption-Aware Training for Plant Disease Classification**. Under review at the International Journal of Information Technology and Computer Science (IJITCS). First author.
 
 More on my portfolio: [nadim7009.github.io](https://nadim7009.github.io)
