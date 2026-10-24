@@ -7,7 +7,7 @@
 <br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____nadimxnovaryn01____)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-8b37152a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-ml)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NadimMahmud-t5j)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudnadim479@gmail.com)
 
@@ -31,6 +31,16 @@ philosophy: "Build. Learn. Experiment. Improve."
 - 🌱 Currently exploring **explainable AI**, **causal inference**, and **applied deep learning**
 - 🎯 Preparing for **graduate studies** and an **international career in AI/Data Science**
 - ⚡ Fun fact: I like turning messy real-world data into models that actually mean something
+
+<br>
+
+## Publications
+
+- **Explainable ML for Individual Carbon-Footprint Prediction from Traditional, Digital, and AI Behaviors**. Accepted for oral presentation at AAI 2026, the International Conference on Advances in Artificial Intelligence (Langkawi, Malaysia, December 2026). Second author.
+- **Attention-Enhanced Deep Learning for Microplastic Segmentation in Scanning Electron Microscopy Images**. Accepted at AAI 2026 (Langkawi, Malaysia, December 2026). Second author; the idea and all of the code were mine.
+- **Beyond Clean Accuracy: Controlled Robustness Evaluation and Corruption-Aware Training for Plant Disease Classification**. Under review at the International Journal of Information Technology and Computer Science (IJITCS). First author.
+
+More on my portfolio: [nadim7009.github.io](https://nadim7009.github.io)
 
 <br>
 
@@ -167,7 +177,7 @@ Deep learning on the PlantVillage dataset — CNN-based crop disease detection.
 ### 🤝 Let's Connect & Collaborate
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____nadimxnovaryn01____)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-8b37152a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadim-mahmud-ml)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NadimMahmud-t5j)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmudnadim479@gmail.com)
 
