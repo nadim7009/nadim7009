@@ -15,6 +15,7 @@ Open to ML engineer and data science roles, and MSc places in AI.
 | [Microplastic segmentation in SEM images](https://github.com/nadim7009/microplastic-sem-segmentation) | U-Net vs a four-gate Attention U-Net on 237 SEM images with a leakage-safe split, gate ablation and robustness tests. Attention U-Net reached Dice 0.882 and IoU 0.803 on the test set. Paper accepted at AAI 2026. | PyTorch, U-Net, segmentation |
 | [Explainable carbon-footprint prediction](https://github.com/nadim7009/explainable-carbon-footprint) | Predicts a person's yearly carbon footprint from traditional, digital and AI-use habits. XGBoost reached R² 0.897 on 3,600 test rows; SHAP shows which habits drive each prediction. Paper accepted for oral presentation at AAI 2026. | XGBoost, scikit-learn, SHAP |
 | [IrrigaSmart: soil-moisture risk](https://github.com/nadim7009/irrigasmart-soil-moisture-risk) | Predicts whether a field will drop below the irrigation threshold in the next 12 hours from sensor, weather and crop data. F1 0.977 on unseen crop cycles, calibrated, and tested with 30% corrupted sensor readings. | scikit-learn, HistGradientBoosting |
+| [Boro rice mapping in Bangladesh](https://github.com/nadim7009/bangladesh-boro-rice-mapping) | Maps boro rice extent in three northern Bangladesh districts from 2017 to 2025 by fusing Sentinel-1 radar and Sentinel-2 optical season statistics in a random forest on Google Earth Engine. Fused model reached 0.877 accuracy (kappa 0.754) and 0.880 ± 0.010 under 5-fold CV, about three points above either sensor alone. Built as a multi-year baseline for AWD methane MRV. | Google Earth Engine, Sentinel-1/2, random forest |
 | [Startup Analyzer](https://github.com/nadim7009/startup-analyzer) | AI-powered web app that helps founders generate startup ideas, analyse markets and compare competitors. | React, Vite, Django REST |
 | [Portfolio website](https://github.com/nadim7009/nadim7009.github.io) | My research and industry portfolio, with interactive demos for each project. | HTML, CSS, JavaScript |
 
@@ -34,4 +35,5 @@ Open to ML engineer and data science roles, and MSc places in AI.
 - **ML and data:** Python, PyTorch, scikit-learn, XGBoost, pandas, NumPy, SHAP, Grad-CAM, Matplotlib, Seaborn
 - **Deep learning:** CNNs, transfer learning, U-Net, Attention U-Net, ResNet, DenseNet, EfficientNet
 - **Evaluation:** cross-validation, calibration (ECE, Brier score), robustness testing, ablation studies
+- **Remote sensing:** Google Earth Engine, Sentinel-1 SAR, Sentinel-2, geemap, rasterio
 - **Other:** Git, Jupyter, Google Colab, Kaggle, Django, React, SQL
